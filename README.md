@@ -1,5 +1,14 @@
 # OCR with ChatGPT automation(Translate)
 
+**OCR로 텍스트를 읽고 자신이 원하는 언어로 번역**
+
+### EasyOCR
+[EasyOCR](https://github.com/JaidedAI/EasyOCR)
+
+- EasyOCR은 문자 영역 인식(Detection) + 문자 인식(Recognition) 기능을 모두 하는 프레임워크 
+- 80가지가 넘는 언어를 지원
+---
+
 ### 1. OpenAI API Key 입력
 
 ![default](image/api_key.png)
