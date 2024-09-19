@@ -1,8 +1,6 @@
 import easyocr
 import openai
 
-openai.api_key = "sk-HyP3YdBXiUJ2m6XGpjheo_wI1G_HkG_TMmZ0xFyy5bT3BlbkFJBOOqzPJ_HE3m8bMAtd8tfDz1N7uEblYllFDFKuOzAA"
-
 openai.api_key = "your openai api key"
 
 from_A = input('인식 및 번역할 언어 입력: ')
